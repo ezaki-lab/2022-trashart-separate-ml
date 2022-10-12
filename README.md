@@ -5,7 +5,9 @@
 このリポジトリはプラスチック判別モデル（機械学習）のソースコードを管理しています。
 
 [Webアプリ（フロントエンド）のリポジトリはこちらから](https://github.com/ezaki-lab/2022-trashart)
+
 [サーバー（バックエンド）のリポジトリはこちらから](https://github.com/ezaki-lab/2022-trashart-server)
+
 [プラスチック判別機（ハードウェア）のリポジトリはこちらから](https://github.com/ezaki-lab/2022-trashart-separate-arduino)
 
 ## システム概要
